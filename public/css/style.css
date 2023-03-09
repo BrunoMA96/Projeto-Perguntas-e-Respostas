@@ -5,3 +5,8 @@ body {
 #formulario-pergunta {
     margin-top: 5vh;
 }
+
+.logo {
+    height: 50px;
+    margin: 10px 0 10px 25%;
+}
