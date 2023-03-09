@@ -1,2 +1,2 @@
 # ProjetoPerguntasRespostas
-Primeiro projeto usando Node.js e MySQL.
+Primeiro projeto usando Node.js, Express e MySQL.
