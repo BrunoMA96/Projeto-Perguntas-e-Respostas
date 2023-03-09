@@ -1,5 +1,5 @@
 # ProjetoPerguntasRespostas
-<<<<<<< HEAD
+
 Primeiro projeto usando Node.js e MySQL.
 
 Para rodar o projeto é necessio ter o MySQL Server instalado e alterar alguns dados no arquivo database.js na pasta database:
